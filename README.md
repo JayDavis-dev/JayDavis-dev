@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Jason
 
 Account Executive focused on AppSec and dev tools.  
-Currently exploring GitHub—repos, pull requests, Actions, and Advanced Security.  
+Currently exploring GitHub — repos, pull requests, Actions, and Advanced Security.  
 *And yes, Copilot is helping me write some of this.*
 
 ---
