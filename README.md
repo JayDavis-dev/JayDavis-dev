@@ -6,13 +6,16 @@ Learning repos, pull requests, Actions, and Advanced Security.
 
 ---
 
-### 🧠 What I’m working with
-- GitHub Actions  
-- GitHub Advanced Security  
-- Copilot & AI-assisted development
+## 🧠 What I’m Learning
+- 🚀 **GitHub Actions**  
+- 🔒 **GitHub Advanced Security**  
+- 🤖 **Copilot & AI-assisted Development**
 
 ---
 
-### 🌱 Outside of work  
-Husband. Father. Nerd.  
-When I’m not working or with my family, I’m probably watching One Piece, playing a round of golf, or rage quitting in Elden Ring.
+## 🌱 Outside of Work  
+👨‍👩‍👧 **Husband. Father. Nerd.**  
+When I’m not working or with my family, I’m probably:  
+- 🏴‍☠️ Watching *One Piece*  
+- 🏌️‍♂️ Playing a round of golf  
+- 🎮 Rage quitting in *Elden Ring*
