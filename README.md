@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hey, I’m Jason
 
-<!--
-**JayDavis-dev/JayDavis-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Account Executive focused on AppSec and dev tools.  
+Currently exploring GitHub—repos, pull requests, Actions, and Advanced Security.  
+*And yes, Copilot is helping me write some of this.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I’m working with
+- GitHub Actions  
+- GitHub Advanced Security  
+- Copilot & AI-assisted development
+
+---
+
+### 🌱 Outside of work  
+Husband. Father. Nerd.  
+When I’m not working or with my family, I’m probably watching One Piece, playing a round of golf, or rage quitting in Elden Ring.
